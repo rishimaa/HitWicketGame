@@ -4,6 +4,7 @@ There is a json.cs script for the data structure used to represent the JSON data
 
 Objects:
 1. cube: as doofus. The scripts attached are:
+   
 	move.cs script to change movement with arrow keys. The move script takes input from the json file for player speed
 	score_main.cs to update score.
 	camera_follow.cs script so the camera follows the cube
