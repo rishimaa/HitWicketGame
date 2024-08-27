@@ -7,7 +7,7 @@ Objects:
    
 	move.cs script to change movement with arrow keys. The move script takes input from the json file for player speed
 
-	score_main.cs to update score.
+	score_main.cs to update score and display in Canvas.
 
 	camera_follow.cs script so the camera follows the cube
 
@@ -20,7 +20,7 @@ represent timer on each pulpit
 All these scripts are there inside the assets folder
 
 6. A canvas with TextMeshProUGUI to represent score and game over. This gets updated by the functionality UpdateScoreText() and DisplayGameOver()
-inside the toggle.cs script
+inside the score_main.cs script
 
 The game play video link is below:
 
