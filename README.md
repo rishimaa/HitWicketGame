@@ -23,4 +23,4 @@ All these scripts are there inside the assets folder
 inside the score_main.cs script
 
 The game play video link is below:
-
+https://drive.google.com/drive/folders/1-JYo45Lul1WcMlcWRxuFMHvnwcQ1hJwX
